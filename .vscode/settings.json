@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "*.m": "matlab",
+        "inttypes.h": "c",
+        "__cxx_version": "c",
+        "ccomplex": "c",
+        "complex": "c",
+        "algorithm": "c",
+        "new": "c",
+        "stdio.h": "c"
+    }
+}
