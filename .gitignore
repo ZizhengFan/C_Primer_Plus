@@ -2,3 +2,7 @@ cmake-build-debug/
 CMakeLists.txt
 .vscode/
 *.xml
+*.iml
+*.out
+*.o
+*.json
